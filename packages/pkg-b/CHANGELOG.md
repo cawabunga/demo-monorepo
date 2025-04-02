@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.0 (2025-04-02)
+
+* Revert "fix: remove console log statement" ([8dfdc20](https://github.com/cawabunga/demo-monorepo/commit/8dfdc20))
+
 ## 0.3.0 (2025-04-02)
 
 * fix: remove console log statement ([fbb695a](https://github.com/cawabunga/demo-monorepo/commit/fbb695a))
