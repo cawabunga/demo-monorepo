@@ -1,12 +1,12 @@
 {
   "$schema": "https://turborepo.org/schema.json",
-  "pipeline": {
+  "tasks": {
     "start": {
       "cache": false
     },
     "release": {
       "dependsOn": ["^release"],
-      "outputMode": "new-only"
+      "outputLogs": "new-only"
     }
   }
 }
