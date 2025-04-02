@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0 (2025-04-02)
+
+* fix: remove console log statement ([fbb695a](https://github.com/cawabunga/demo-monorepo/commit/fbb695a))
+
 ## 0.2.0 (2025-04-02)
 
 * fix(repo): update require path in .release-it.cjs ([b0be509](https://github.com/cawabunga/demo-monorepo/commit/b0be509))
