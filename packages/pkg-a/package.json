@@ -1,0 +1,22 @@
+{
+  "name": "@cawabunga/monorepo-demo-pkg-a",
+  "version": "0.0.0",
+  "module": "./dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "bun run build.ts",
+    "test": "bun test",
+    "release": "release-it --ci"
+  },
+  "dependencies": {
+    "@cawabunga/monorepo-demo-pkg-b": "workspace:*"
+  },
+  "devDependencies": {
+    "@cawabunga/monorepo-demo-config-release-it": "*",
+    "@types/bun": "latest",
+    "bun-plugin-isolated-decl": "^0.1.10"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

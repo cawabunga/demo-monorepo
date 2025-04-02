@@ -1,0 +1,13 @@
+{
+  "name": "@cawabunga/monorepo-demo-config-release-it",
+  "version": "0.0.0",
+  "main": ".release-it.js",
+  "devDependencies": {
+    "@b12k/mvm": "0.0.10",
+    "@release-it/conventional-changelog": "10.0.0",
+    "release-it": "18.1.2"
+  },
+  "scripts": {
+    "release": "release-it --ci"
+  }
+}
