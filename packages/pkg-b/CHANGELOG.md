@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.0 (2025-04-02)
+
+* feat: add sum2 ([12627f3](https://github.com/cawabunga/demo-monorepo/commit/12627f3))
+
 ## 0.4.0 (2025-04-02)
 
 * Revert "fix: remove console log statement" ([8dfdc20](https://github.com/cawabunga/demo-monorepo/commit/8dfdc20))
