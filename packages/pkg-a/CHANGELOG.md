@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.0 (2025-04-02)
+
+* fix(repo): update require path in .release-it.cjs ([b0be509](https://github.com/cawabunga/demo-monorepo/commit/b0be509))
+
 ## 0.1.0 (2025-04-02)
 
 * feat(monorepo-demo-config-release-it): released version v0.1.0 [no ci] ([1626af9](https://github.com/cawabunga/demo-monorepo/commit/1626af9))
